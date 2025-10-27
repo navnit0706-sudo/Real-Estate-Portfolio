@@ -597,11 +597,11 @@ const Gallery = () => {
             )}
 
             {/* Image Title */}
-            <div className="absolute bottom-4 left-1/2 -translate-x-1/2 bg-black/50 px-6 py-3 rounded-lg">
+            {/* <div className="absolute bottom-4 left-1/2 -translate-x-1/2 bg-black/50 px-6 py-3 rounded-lg">
               <p className="text-white text-center font-medium">
                 {filteredItems[selectedImageIndex].title}
               </p>
-            </div>
+            </div> */}
           </div>
         )}
       </div>
